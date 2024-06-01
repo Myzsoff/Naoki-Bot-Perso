@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        px: '+',
-        token: '',
-        owners: '843204602686078976',
-        funny: '843204602686078976',
+        px: '-',
+        token: 'MTI0NjUzODg0OTA5MDQwNDQ0NA.GYWvl1.hUTAZzopDhbjn7bq00s_FRgeMMideYJvWiY-ig',
+        owners: '519571897743048709',
+        funny: '519571897743048709',
         color: '#FF0000',
         footer: 'sltcv ?',
         maxserver: '1',
